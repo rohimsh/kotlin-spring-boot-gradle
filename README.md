@@ -1,0 +1,1 @@
+- Create multi module project in Kotlin using Spring Boot and Gradle https://kotlindays.com/2019/12/06/multi-module-spring-boot-in-kotlin-dsl/index.html
